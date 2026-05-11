@@ -5,7 +5,7 @@ A terminal-based Typing Speed Tester built in **C**, demonstrating DSA concepts 
 - Arrays (WPM samples)
 - Strings (paragraph loading)
 - Doubly Linked List (last 10 sessions)
-- File Handling (permanent session saving)
+- File Handling (permanent session saving).
 
 The program runs in Ubuntu terminal using `termios` for real-time key capture and prints colored feedback for correct/incorrect characters.
 
