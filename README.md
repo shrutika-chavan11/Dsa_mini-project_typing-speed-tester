@@ -1,7 +1,7 @@
 # Typing Speed Tester (C Project)
 
 A terminal-based Typing Speed Tester built in **C**, demonstrating DSA concepts through:
-- Stack (typing & backspace)
+- Stack (typing and backspace)
 - Arrays (WPM samples)
 - Strings (paragraph loading)
 - Doubly Linked List (last 10 sessions)
